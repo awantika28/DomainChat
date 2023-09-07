@@ -1,1 +1,1 @@
-# DomainChat
+DomainChat is a web platform designed for creating and joining interest-based groups, facilitating real-time conversations to connect like-minded individuals. In today's cluttered online landscape filled with spam and fragmented discussions, there's a pressing need for a tool like DomainChat to provide structured spaces for meaningful conversations and collaborations, ensuring users never miss out on valuable insights and connections.
